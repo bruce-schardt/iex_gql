@@ -1,2 +1,6 @@
 # iex_gql
-a graphql interface to the iex stock market api
+A graphql interface to the iex stock market api
+
+https://iextrading.com/developer/docs/#getting-started
+
+
