@@ -3,4 +3,7 @@ A graphql interface to the iex stock market api
 
 https://iextrading.com/developer/docs/#getting-started
 
+# graphql
+https://graphql.org/
+
 
